@@ -9,7 +9,7 @@ Shorten your links using the *in-bot-environment* or *inline commands!*
 
 🔑 Using bit.ly Link Shortener Development API
 
-🐍 Written By Python!
+🐍 Written In Python!
 
 🖥 We're using [python-telegram-bot Package](https://github.com/python-telegram-bot/python-telegram-bot/blob/master/README.rst) to use Telegram-API in python.
 And also [pyshorteners](https://pyshorteners.readthedocs.io/en/latest/) to shorten our links.
@@ -20,8 +20,8 @@ Remember to place your own 'Telegram-API-Token' And 'Bitly-API-Token'
 ⚙️ Beta V2.0
 
 🤖 Developed By:
-[T.me/JoiFoi](t.me/joifoi) & [T.me/mac_mr](t.me/mac_mr)
+[T.me/JoiFoi](https://t.me/joifoi) & [T.me/mac_mr](https://t.me/mac_mr)
 
-📧 relinkedsupport@solarunited.net (Only E-Mail If It's Related To RelinkedBot)
+📧 JoiFoi@Outlook.Com
 
 **Feel Free To Freely Copy/Share!**
